@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>About This Page</title>
-      <link>/posts/about-this-page/</link>
+      <title>About This Site</title>
+      <link>/posts/about-this-site/</link>
       <pubDate>Tue, 17 Mar 2020 19:57:41 +0700</pubDate>
       
-      <guid>/posts/about-this-page/</guid>
+      <guid>/posts/about-this-site/</guid>
       <description>The site you see here is the sample work of a tutorial I wrote on deploying a Hugo site with Github Pages and using git submodules in your project configuration. Follow along at the links below.
  How to Set Up a Hugo Site on Github Pages - with Git Submodules!  </description>
     </item>
